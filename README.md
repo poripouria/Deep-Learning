@@ -1,13 +1,14 @@
-# GANs
+## GANs
 Generative Adversarial Networks (Trained in MNIST)
 
-# KAN
+# Group Projects (By Javad Fazli and Alireza MohammadZadeh)
+## KAN
 Kolmogorov-Arnold Network
 
-# Auto Encoder
+## Auto Encoder
 Encoder + Decoder (Trained in MNIST)
 
-# MLP
+## MLP
 Multi-layer Perceptron 
 
 (Persian descriptions in Markdown format)
